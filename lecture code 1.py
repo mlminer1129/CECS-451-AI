@@ -42,3 +42,5 @@ while True:
     if score < best_score:
         best = new_solution
         best_score = score
+        
+        
