@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 15 12:30:50 2020
 
-@author: John Miner
+@author: 
 """
 
 
